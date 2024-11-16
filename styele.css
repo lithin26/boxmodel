@@ -1,0 +1,92 @@
+.box1{
+    height:25rem;
+    width: 55rem;
+    color: black;
+    background-color: white;
+    border-style: solid;
+    border-color: red;
+}
+.box2{
+    padding: 20px;
+    height: 30px;;
+    width: 51rem;
+    margin-top: 8px;
+    margin-left: 12px;
+    font-size:3rem;
+    border-style: solid;
+    border-color: red;
+    border-spacing: 3rem;
+
+}
+.box3{
+    padding:20px;
+    height:4rem;
+    width:51rem;
+    margin-top: 20px;
+    margin-left: 12px;
+    border-style: solid;
+    border-color: red;
+}
+.box4{
+    height: 5rem;
+    width:53.5rem;
+    margin-top: 17px;
+    margin-left: 12px;
+    border-style: solid;
+    border-color: red;
+}
+.boxi{
+    margin-left: 6px;
+    margin-top: 35px;
+    border-style: hidden;
+    width:0px;
+    position: fixed;
+    height:0px;
+    margin-bottom: 25px;
+}
+.box5{
+    margin-top: 10px;
+    margin-left: 12px;
+    height:1.5rem;
+    width:50.5rem;
+    border-style: solid;
+    border-color: red;
+}
+.box6{
+    margin-left: 12px;
+    height:1.5rem;
+    width:50.5rem;
+    border-style: solid;
+    border-color: red;
+}
+.even{
+    margin-left: 12px;
+    margin-top: 25px;
+    position: absolute;
+}
+.box7{
+    height: 25px;
+    margin-left:34px;
+    margin-top:-22px;
+    position: absolute;
+    border-color: red;
+    border-style: solid;
+    padding:3px;
+}
+.and{
+    margin-left: 94px;
+    margin-top:-18px;
+}
+.box8{
+    height: 25px;
+    padding:3px;
+    margin-left:120px;
+    margin-top:-24px;
+    position: absolute;
+    border-color: red;
+    border-style: solid;
+}
+.are{
+    margin-left:165px;
+    margin-top:-19px;
+}
